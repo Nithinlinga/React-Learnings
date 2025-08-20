@@ -1,0 +1,60 @@
+{
+    "employee":[
+        {
+            "id":1,
+            "name":"Nithin Linga",
+            "Age":21,
+            "DOJ":"31-07-2025",
+            "designation":"PAT",
+            "location":"Hyderabad",
+            "Department":"IT",
+            "salary":25000
+
+        },
+        {
+            "id":2,
+            "name":"Sai Kiran",
+            "Age":21,
+            "DOJ":"31-07-2021",
+            "designation":"PAT",
+            "location":"Hyderabad",
+            "Department":"IT",
+            "salary":25000
+
+        },
+        {
+            "id":3,
+            "name":"Krishna",
+            "Age":21,
+            "DOJ":"31-07-2025",
+            "designation":"PAT",
+            "location":"Uttar pradesh",
+            "Department":"IT",
+            "salary":25000
+
+        },
+        {
+            "id":4,
+            "name":"Yuvraj",
+            "Age":20,
+            "DOJ":"31-07-2025",
+            "designation":"PAT",
+            "location":"Madhya pradesh",
+            "Department":"IT",
+            "salary":25000
+
+        },
+        {
+            "id":5,
+            "name":"Pradhosh",
+            "Age":22,
+            "DOJ":"31-07-2025",
+            "designation":"PAT",
+            "location":"Bhubaneshwar",
+            "Department":"IT",
+            "salary":25000
+
+        }
+        
+    ]
+}
